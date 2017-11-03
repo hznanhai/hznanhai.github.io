@@ -84,3 +84,5 @@ friends: [
 ]
 
 gems: [jekyll-paginate]
+
+theme: jekyll-theme-time-machine
